@@ -1,0 +1,55 @@
+Training with learning rate: 0.001 and batch size: 2
+Epoch 1, Train Loss: 0.0300, Val Loss: 0.0114
+Epoch 2, Train Loss: 0.0086, Val Loss: 0.0066
+Epoch 3, Train Loss: 0.0077, Val Loss: 0.0064
+Epoch 4, Train Loss: 0.0083, Val Loss: 0.0070
+Epoch 5, Train Loss: 0.0064, Val Loss: 0.0058
+Training with learning rate: 0.001 and batch size: 4
+Epoch 1, Train Loss: 0.0810, Val Loss: 0.0189
+Epoch 2, Train Loss: 0.0136, Val Loss: 0.0108
+Epoch 3, Train Loss: 0.0092, Val Loss: 0.0075
+Epoch 4, Train Loss: 0.0077, Val Loss: 0.0071
+Epoch 5, Train Loss: 0.0068, Val Loss: 0.0074
+Training with learning rate: 0.001 and batch size: 8
+Epoch 1, Train Loss: 0.1088, Val Loss: 0.0262
+Epoch 2, Train Loss: 0.0185, Val Loss: 0.0136
+Epoch 3, Train Loss: 0.0116, Val Loss: 0.0100
+Epoch 4, Train Loss: 0.0093, Val Loss: 0.0085
+Epoch 5, Train Loss: 0.0077, Val Loss: 0.0070
+Training with learning rate: 0.0001 and batch size: 2
+Epoch 1, Train Loss: 0.2068, Val Loss: 0.0771
+Epoch 2, Train Loss: 0.0512, Val Loss: 0.0333
+Epoch 3, Train Loss: 0.0269, Val Loss: 0.0210
+Epoch 4, Train Loss: 0.0178, Val Loss: 0.0147
+Epoch 5, Train Loss: 0.0139, Val Loss: 0.0121
+Training with learning rate: 0.0001 and batch size: 4
+Epoch 1, Train Loss: 0.3662, Val Loss: 0.1915
+Epoch 2, Train Loss: 0.1445, Val Loss: 0.1078
+Epoch 3, Train Loss: 0.0883, Val Loss: 0.0727
+Epoch 4, Train Loss: 0.0601, Val Loss: 0.0504
+Epoch 5, Train Loss: 0.0440, Val Loss: 0.0385
+Training with learning rate: 0.0001 and batch size: 8
+Epoch 1, Train Loss: 0.4856, Val Loss: 0.3458
+Epoch 2, Train Loss: 0.2646, Val Loss: 0.2181
+Epoch 3, Train Loss: 0.1822, Val Loss: 0.1535
+Epoch 4, Train Loss: 0.1310, Val Loss: 0.1128
+Epoch 5, Train Loss: 0.0980, Val Loss: 0.0873
+Training with learning rate: 1e-05 and batch size: 2
+Epoch 1, Train Loss: 0.5143, Val Loss: 0.4286
+Epoch 2, Train Loss: 0.3804, Val Loss: 0.3352
+Epoch 3, Train Loss: 0.3044, Val Loss: 0.2719
+Epoch 4, Train Loss: 0.2486, Val Loss: 0.2250
+Epoch 5, Train Loss: 0.2069, Val Loss: 0.1888
+Training with learning rate: 1e-05 and batch size: 4
+Epoch 1, Train Loss: 0.6026, Val Loss: 0.5603
+Epoch 2, Train Loss: 0.5179, Val Loss: 0.4876
+Epoch 3, Train Loss: 0.4506, Val Loss: 0.4236
+Epoch 4, Train Loss: 0.3967, Val Loss: 0.3724
+Epoch 5, Train Loss: 0.3551, Val Loss: 0.3353
+Training with learning rate: 1e-05 and batch size: 8
+Epoch 1, Train Loss: 1.0121, Val Loss: 0.9189
+Epoch 2, Train Loss: 0.9274, Val Loss: 0.8597
+Epoch 3, Train Loss: 0.8233, Val Loss: 0.7821
+Epoch 4, Train Loss: 0.7330, Val Loss: 0.7116
+Epoch 5, Train Loss: 0.6683, Val Loss: 0.6508
+Best Params: {'lr': 0.001, 'batch_size': 2}, Best Validation Loss: 0.0058399483026005325

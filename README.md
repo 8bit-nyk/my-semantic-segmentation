@@ -40,21 +40,21 @@ pip install -r requirements.txt
 ### Training the Model
 To train the model from scratch, navigate to the project directory and run:
 ```
-python train.py
+python3 train.py
 ```
 This script will train the model using the training dataset, validate it using the validation set, and save the best-performing model.
 
 ### Hyperparameter Tuning
 To find the optimal model settings, run:
 ```
-python hyperparameter_tuning.py
+python3 hyperparameter_tuning.py
 ```
 This will iterate over a predefined set of hyperparameters to find the combination that yields the best validation performance.
 
 ### Running Inference
 To segment new images using the trained model, run:
 ```
-python inference.py --image path_to_your_image.jpg
+python3 inference.py --image path_to_your_image.jpg
 ```
 
 ## Results

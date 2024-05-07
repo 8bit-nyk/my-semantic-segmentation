@@ -1,4 +1,4 @@
-# Semantic Segmentation of Industrial Scenes
+# Semantic Scene Understanding in Autonomous Robotics
 
 ## Project Overview
 This project develops a semantic segmentation model to identify objects in industrial scenes using deep learning techniques. 
